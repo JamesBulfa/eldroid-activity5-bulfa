@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity 5 - Bulfa</string>
+    <string name="permissions">Permissions</string>
+    <string name="get_location">Get Location</string>
+    <string name="camera">Camera</string>
+    <string name="voice_record">Voice Record</string>
+    <string name="result">Result</string>
+    <string name="result_text">Result</string>
+    <string name="back">Back</string>
+</resources>
